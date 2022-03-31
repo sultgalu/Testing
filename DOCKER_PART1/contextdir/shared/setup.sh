@@ -1,0 +1,1 @@
+ls -la >> /win/log.txt
